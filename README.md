@@ -1,4 +1,4 @@
-# Hi! 👋 I’m @Xalmon #
+# Hi! 👋 I’m Wiztech #
 <div>
 <br/>
 - 👀 I’m interested in software development, artificial intelligence, and data science.<br/>
